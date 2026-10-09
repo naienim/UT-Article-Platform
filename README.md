@@ -1,1 +1,1 @@
-# UT-Article-Platform-
+# UT-Article-Platform
